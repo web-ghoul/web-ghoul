@@ -1,8 +1,5 @@
 
-<div>
-  <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/VKhy75415VD7QxHX0L/giphy.gif?cid=ecf05e47heylqmntcepfvm9xsdxgmhm6ov2gd5ibe36vl48i&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt=""/>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/X1OabmpEkQYKHwjFVW/giphy.gif?cid=ecf05e47heylqmntcepfvm9xsdxgmhm6ov2gd5ibe36vl48i&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt=""/>
-</div>
+
 <h1 align="center">Hi 👋, I'm Mahmoud Salama</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
@@ -10,7 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=web-ghoul&label=Profile%20views&color=0e75b6&style=flat" alt="web-ghoul" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=web-ghoul" alt="web-ghoul" /></a> </p>
-
+  <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/VKhy75415VD7QxHX0L/giphy.gif?cid=ecf05e47heylqmntcepfvm9xsdxgmhm6ov2gd5ibe36vl48i&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt=""/>
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/X1OabmpEkQYKHwjFVW/giphy.gif?cid=ecf05e47heylqmntcepfvm9xsdxgmhm6ov2gd5ibe36vl48i&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt=""/>
 - 🔭 I’m currently working on **Tournament App**
 
 - 👯 I’m looking to collaborate on **Education Website**
