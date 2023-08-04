@@ -1,5 +1,3 @@
-
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/oUKhCyfhcs3qE/giphy.gif?cid=ecf05e4717is99g8wxjxyh1by74o4peszhagilzv80i2hz6t&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt=""/>
 <h1 align="center">Hi 👋, I'm Mahmoud Salama</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
