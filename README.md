@@ -1,6 +1,8 @@
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/VKhy75415VD7QxHX0L/giphy.gif?cid=ecf05e47heylqmntcepfvm9xsdxgmhm6ov2gd5ibe36vl48i&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt=""/>
+<div>
+  <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/VKhy75415VD7QxHX0L/giphy.gif?cid=ecf05e47heylqmntcepfvm9xsdxgmhm6ov2gd5ibe36vl48i&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt=""/>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/X1OabmpEkQYKHwjFVW/giphy.gif?cid=ecf05e47heylqmntcepfvm9xsdxgmhm6ov2gd5ibe36vl48i&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt=""/>
+</div>
 <h1 align="center">Hi 👋, I'm Mahmoud Salama</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
